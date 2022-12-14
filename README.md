@@ -1,2 +1,2 @@
-# Help Command Plugin for Temp-Bot
-Custom help command created for [Temp-Bot](https://github.com/CaptainM777/modmailbot).
+# Help Command Plugin for Temp-Mail
+Custom help command created for [Temp-Mail](https://github.com/CaptainM777/tempmail).
