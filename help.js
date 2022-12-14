@@ -11,7 +11,7 @@ module.exports = function({commands, config}) {
   for(const command in commands_info.thread_only_continued) { commands_info_thread_continued.value += `\`${config.prefix}${command}\` - ${commands_info.thread_only_continued[command]}\n` }
   for(const command in commands_info.global) { commands_info_global.value += `\`${config.prefix}${command}\` - ${commands_info.global[command]}\n` }
 
-  commands.addInboxServerCommand("helpp", "", async (message) => {
+  commands.addInboxServerCommand("help", "", async (message) => {
     embed = {
       color: 231676,
       author: {
