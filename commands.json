@@ -5,7 +5,7 @@
     "close [time]": "Close a thread. Include time to delay close or leave out to close immediately.",
     "close s [time]": "Close a thread without notifying the user that it was closed. Include time to delay close or leave out to close immediately.",
     "close cancel": "Cancel a timed close.",
-    "suspend": "Suspends a thread. A suspended thread will behave as it's closed but the bot doesn't delete the channel.",
+    "suspend": "Suspends a thread. A suspended thread will behave as if it's closed but the bot doesn't delete the channel.",
     "unsuspend": "Unsuspend the thread. See suspend above"
   },
   "thread_only_continued": {
