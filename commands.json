@@ -23,7 +23,7 @@
     "role <role name>": "Change your display role for the thread to any role you currently have. Use outside a thread to set your display role globally.",
     "role reset": "Reset your display role for the thread to the default. Use outside a thread to set it globally.",
     "newthread <user ID>": "Open a Modmail thread with a user.",
-    "is_blocked <user ID>": "Check if the specified user is blocked.",
+    "blocked <user ID>": "Check if the specified user is blocked.",
     "version": "Show the Modmail bot's version."
   }
 }
